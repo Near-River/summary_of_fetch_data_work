@@ -1,0 +1,10 @@
+Verification Code Crack Project:
+
+Steps:
+①：Download 1000 verification-code pictures and manually identify them.
+②：Build a model based on these data.
+③：Write a python to crawl enterprise information, and use the model learned above to identify the verification code.
+
+verifCodePic:
+    size: 90 * 28
+    MIME type: image/jpeg; charset=UTF-8
