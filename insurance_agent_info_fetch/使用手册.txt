@@ -1,0 +1,8 @@
+项目名称必须为：Insurance_Agent_Fetch
+①：将 NewIDCard 文件夹放到和 AgentInfoFetch.py 同一个路径下
+②：将需要运行的包放到文件夹 NewIDCard 下的子文件夹 test 下
+
+
+相关代理商的API调用信息借助ProxyIpHelper.py文件进行相关配置：
+目前提供三个代理IP商接口供使用：
+-- 大象代理、快代理、（垃圾）站大爷
